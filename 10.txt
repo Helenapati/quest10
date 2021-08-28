@@ -1,0 +1,9 @@
+public class{
+   public static void main(String[] args) {
+       m = 100,00
+       p = 1% 
+       Ano = 100 * 1%
+       Ano2 = (100 * 1%) + (100 * 1%)
+          Stystem.out.println("Dois anos:" + Ano2 "Mais anos só triplicar");
+    }
+}
